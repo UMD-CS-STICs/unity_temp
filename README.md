@@ -1,6 +1,9 @@
 # CMSC389X: Unity and Game Development 
 ## Course Description
-This course provides a practical and programming-oriented introduction to the popular game engine, Unity3D. Students will learn how to start a new project, add in physics, animations, models and program them using scripts in C#. NEED SOME MORE CONTENT.
+This course provides a practical and programming-oriented introduction to the popular game engine, Unity3D. Students will learn how to start a new project, add in physics, animations, models and program them using scripts in C#. The class will be centered around a semester-long individual Unity game that students create.
+
+The course is structured in a way that students will gradually learn the basic skills to create a functional game in Unity. Although the students will be working on one main project the whole semester, benchmarks will ensure students are constantly working on this project. A single, functional project will better imitate the process of creating a full game than many smaller projects. After this class, students will have a solid base to explore the many aspects of Unity on their own.
+
 
 ## Course Details
 - **Course**: [CMSC389X]()
@@ -21,10 +24,12 @@ This course provides a practical and programming-oriented introduction to the po
     + this
 
 ## Course Description
-- Students will be comfortable using Unity as a game engine
-- Students will be able to create a polished product on their own
-- Students will be able to build a project from scratch using the knowledge they have gained and demo it to prospective employers
-- Students will be educated about the various uses of Unity beyond game development.
+Primary goals of this class:
+- For students to be comfortable using the Unity interface and terminology and have the ability to create a polished product on their own from installation to shipment
+- For students to be able to apply basic computer science principles to scripting in Unity
+- For students to be comfortable with basic game development concepts
+- For students to be able to grasp the concepts of and use “Game Objects”, “Physics”, and “Rendering” to improve their projects (as they pertain to Unity).
+
 
 
 ## Grading
@@ -63,12 +68,52 @@ will be considered afterwards.
 | 15 () | **Physics**: Shaders/Materials | | |
 | 16 () | __FINAL__ | | Final Project DUE |
 
-## Projects
-Projects must be submitted electronically following the instructions given in each project assignment. Projects may not be submitted by any other means (e.g., please do not email your projects to us). It is your responsibility to test your program and verify that it works properly before submitting. All projects are due at 11:59 PM on the day indicated on the project assignment.
+## Project & Benchmarks
 
-Projects may be submitted up to 24 hours late for a 10% penalty. If you submit both on-time & late, your project will receive the maximum of the penalty-adjusted scores.  You may submit multiple times.
+**Final Project**
+There will be one, continuous individual project throughout the semester. The final project will be a cohesive game based on a rubric. The majority of work done and evaluated will be the progressive building of the game in Unity. While each student is free to personalize within certain boundaries of the rubric, there will be a set of requirements based off material learned in class each student will be evaluated on. The final project will be evaluated at the end of the semester as well as at periodic benchmarks listed below.
 
-Unlike lower-level programming classes, we will not provide you with test cases (e.g., public tests) before projects are due. You will be responsible for developing your own tests and for using appropriate testing techniques. Also, we expect your projects to use proper style and documentation.
+**Benchmark 1 (due XX/XX): Installation & Set-up**
+- Have Unity downloaded with specificifications to be provided
+- Download introductory asset packages and files from class GitHub
+
+**Benchmark 2 (due XX/XX): Required GameObjects playable**
+- Create required characters with character controllers
+- Have required player and environment interactions fully functioning
+- Have functioning sound and animation
+
+**Benchmark 3 (due XX/XX): Physics**
+- Have environmental physics functioning
+- Have character physics functioning
+
+Specific Benchmark rubrics will be made available during the semester.
+
+## Midterm
+There will be one exam in this class, a midterm. It will focus on the concepts taught in class and covered on the in-class quizzes.
+
+## Quizzes
+In class worksheet quizzes will be provided periodically to ensure that students have a grasp on material covered in the past unit. Quizzes will be used as grading tools, but also to get an overall sense of where the class is at. If many students miss a question, it will tell the instructors that a certain topic needs review. Quizzes will mostly focus on larger concepts rather than details.
+
+## Computing Resources
+**Unity Documentation**: https://docs.unity3d.com/Manual/index.html
+**Unity Tutorials**: https://unity3d.com/learn/tutorials 
+
+
+## Project Submission
+Projects must be submitted electronically following the instructions given in each project assignment. Projects may not be submitted by any other means (e.g., please do not email your projects to us). It is your responsibility to test your program and verify that it works properly before submitting. All projects are due at 11:59:59 PM on the day indicated on the schedule above.
+
+Benchmarks/the final project may be submitted up to 24 hours late for a 20% penalty. If you submit both on-time and late, your project will receive the maximum of the penalty-adjusted scores. Only the last on-time and last late projects will be graded. Ask ishaan about final project rules
+
+## Grading Fine Print
+Grades will be maintained on the CS department grades server.
+
+You are responsible for all material discussed in lecture and posted on the class repository, including announcements, deadlines, policies, etc.
+
+Any request for reconsideration of any grading on coursework must be submitted within one week of when it is returned. No requests will be considered afterwards.
+
+Up to one in-class quiz may be dropped, for any reason. If you can document that you were at a hackathon or on-site interview, or had to miss class for any university-approved reason, then notify the course instructor in advance and you will be allowed to turn in the worksheet during the following class.
+
+*Completing the benchmarks is an essential part of the course. Therefore, the course staff reserves the right to fail any student who does not make a good-faith attempt on all course projects.* The requirements for a good-faith attempt will be released with each project.
 
 ## Outside-of-class communication with course staff
 We will interact with students outside of class in primarily two ways: in-person during office hours and piazza. Email should
