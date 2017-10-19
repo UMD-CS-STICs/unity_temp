@@ -7,7 +7,7 @@ The course is structured in a way that students will gradually learn the basic s
 
 ## Course Details
 - **Course**: [CMSC389X]()
-- **Prerequisites**: C- or better in CMSC216 and CMSC250
+- **Prerequisites**: C- or better in CMSC132 and CMSC250
 - **Credits**: 1
 - **Seats**: 30
 - **Lecture Time**: Fridays, XX:XX - XX:XX PM
