@@ -41,10 +41,11 @@ Your final course grade will be determined according to the following percentage
 
 | Percentage | Title | Description |
 | ------------- | -----|-------- |
-|  | Benchmarks  | Weekly individual projects that teach skills and real life applications. |
-|  | Quizzes  | Semi-weekly quizzes to test understanding. |
-|  | Midterm | Examination  |
-|  | Final Project | Final project to demonstrate mastery of all topics learned and apply knowledge to create a new application from scratch. |
+| 20% | Benchmarks  | Weekly individual projects that teach skills and real life applications. |
+| 10% | Quizzes  | Semi-weekly quizzes to test understanding. |
+| 15% | Midterm | Examination  |
+| 50% | Final Project | Final project to demonstrate mastery of all topics learned and apply knowledge to create a new application from scratch. |
+| 5% | Extra credit | Have instructors approve a topic and create a document tutorial of something you learned outside of class. |
 
 Any request for reconsideration of any grading on coursework must be submitted within one week of when it is returned. No requests
 will be considered afterwards.
@@ -71,6 +72,7 @@ will be considered afterwards.
 ## Project & Benchmarks
 
 **Final Project**
+
 There will be one, continuous individual project throughout the semester. The final project will be a cohesive game based on a rubric. The majority of work done and evaluated will be the progressive building of the game in Unity. While each student is free to personalize within certain boundaries of the rubric, there will be a set of requirements based off material learned in class each student will be evaluated on. The final project will be evaluated at the end of the semester as well as at periodic benchmarks listed below.
 
 **Benchmark 1 (due XX/XX): Installation & Set-up**
@@ -96,6 +98,7 @@ In class worksheet quizzes will be provided periodically to ensure that students
 
 ## Computing Resources
 **Unity Documentation**: https://docs.unity3d.com/Manual/index.html
+
 **Unity Tutorials**: https://unity3d.com/learn/tutorials 
 
 
