@@ -18,10 +18,6 @@ The course is structured in a way that students will gradually learn the basic s
 - **Faculty Advisor**: []()
 - **Syllabus Last Updated**: October 15, 2017
 
-## Topics Covered
-- Need to 
-- add 
-    + this
 
 ## Course Description
 Primary goals of this class:
