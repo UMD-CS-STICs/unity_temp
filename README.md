@@ -14,7 +14,7 @@ The course is structured in a way that students will gradually learn the basic s
 - **Location**: CSI ####
 - **Semester**: Spring 2018
 - **Textbook**: Architecture: Residential Drafting and Design
-- **Course Facilitators**: [Nadine Perez]() and [Noah Salomons]()
+- **Course Facilitators**: [Nadine Perez]() and [Joseph Antony]()
 - **Faculty Advisor**: []()
 - **Syllabus Last Updated**: October 15, 2017
 
