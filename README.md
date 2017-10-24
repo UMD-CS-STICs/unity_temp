@@ -2,7 +2,8 @@
 ## Course Description
 This course provides a practical and programming-oriented introduction to the popular game engine, Unity3D. Students will learn how to start a new project, add in physics, animations, models and program them using scripts in C#. The class will be centered around a semester-long individual Unity game that students create.
 
-The course is structured in a way that students will gradually learn the basic skills to create a functional game in Unity. Although the students will be working on one main project the whole semester, benchmarks will ensure students are constantly working on this project. A single, functional project will better imitate the process of creating a full game than many smaller projects. After this class, students will have a solid base to explore the many aspects of Unity on their own.
+The course is intended for newcomers with no previous Unity experience and is structured in a way that students will gradually learn the basic skills to create a functional game in Unity. Although the students will be working on one main project the whole semester, benchmarks will ensure students are constantly working on this project. A single, functional project will better imitate the process of creating a full game than many smaller projects. After this class, students will have a solid base to explore the many aspects of Unity on their own.
+
 
 
 ## Course Details
